@@ -1,0 +1,922 @@
+[
+    {
+        "code": "001",
+        "airline_code": "AA",
+        "airline": "American Airlines"
+    },
+    {
+        "code": "002",
+        "airline_code": "2G",
+        "airline": "CargoItalia (alternate)"
+    },
+    {
+        "code": "005",
+        "airline_code": "CO",
+        "airline": "Continental Airlines"
+    },
+    {
+        "code": "006",
+        "airline_code": "DL",
+        "airline": "Delta Air Lines"
+    },
+    {
+        "code": "012",
+        "airline_code": "NW",
+        "airline": "Northwest Airlines (alternate site)"
+    },
+    {
+        "code": "014",
+        "airline_code": "AC",
+        "airline": "Air Canada"
+    },
+    {
+        "code": "016",
+        "airline_code": "UA",
+        "airline": "United Airlines Cargo"
+    },
+    {
+        "code": "018",
+        "airline_code": "CP",
+        "airline": "Canadian Airlines Int\u00b4l"
+    },
+    {
+        "code": "020",
+        "airline_code": "LH",
+        "airline": "Lufthansa Cargo AG"
+    },
+    {
+        "code": "023",
+        "airline_code": "FX",
+        "airline": "Fedex"
+    },
+    {
+        "code": "027",
+        "airline_code": "AS",
+        "airline": "Alaska Airlines"
+    },
+    {
+        "code": "037",
+        "airline_code": "US",
+        "airline": "USAirways"
+    },
+    {
+        "code": "042",
+        "airline_code": "RG",
+        "airline": "VARIG Brazilian Airlines"
+    },
+    {
+        "code": "043",
+        "airline_code": "KA",
+        "airline": "Dragonair"
+    },
+    {
+        "code": "045",
+        "airline_code": "LA",
+        "airline": "LAN Chile"
+    },
+    {
+        "code": "047",
+        "airline_code": "TP",
+        "airline": "TAP Air Portugal"
+    },
+    {
+        "code": "048",
+        "airline_code": "CY",
+        "airline": "Cyprus Airways"
+    },
+    {
+        "code": "050",
+        "airline_code": "OA",
+        "airline": "Olympic Airways"
+    },
+    {
+        "code": "053",
+        "airline_code": "EI",
+        "airline": "Aer Lingus Cargo"
+    },
+    {
+        "code": "055",
+        "airline_code": "AZ",
+        "airline": "Alitalia"
+    },
+    {
+        "code": "057",
+        "airline_code": "AF",
+        "airline": "Air France"
+    },
+    {
+        "code": "058",
+        "airline_code": "IC",
+        "airline": "Indian Airlines"
+    },
+    {
+        "code": "061",
+        "airline_code": "HM",
+        "airline": "Air Seychelles"
+    },
+    {
+        "code": "064",
+        "airline_code": "OK",
+        "airline": "Czech Airlines"
+    },
+    {
+        "code": "065",
+        "airline_code": "SV",
+        "airline": "Saudi Arabian Airlines"
+    },
+    {
+        "code": "070",
+        "airline_code": "RB",
+        "airline": "Syrian Arab Airlines"
+    },
+    {
+        "code": "071",
+        "airline_code": "ET",
+        "airline": "Ethiopian Airlines"
+    },
+    {
+        "code": "072",
+        "airline_code": "GF",
+        "airline": "Gulf Air"
+    },
+    {
+        "code": "074",
+        "airline_code": "KL",
+        "airline": "KLM Cargo"
+    },
+    {
+        "code": "075",
+        "airline_code": "IB",
+        "airline": "Iberia"
+    },
+    {
+        "code": "076",
+        "airline_code": "ME",
+        "airline": "Middle East Airlines"
+    },
+    {
+        "code": "077",
+        "airline_code": "MS",
+        "airline": "Egyptair"
+    },
+    {
+        "code": "079",
+        "airline_code": "PR",
+        "airline": "Philippine Airlines"
+    },
+    {
+        "code": "057",
+        "airline_code": "AF",
+        "airline": "Air France"
+    },
+    {
+        "code": "080",
+        "airline_code": "LO",
+        "airline": "LOT Polish Airlines"
+    },
+    {
+        "code": "081",
+        "airline_code": "QF",
+        "airline": "Qantas Airways"
+    },
+    {
+        "code": "082",
+        "airline_code": "SN",
+        "airline": "Brussels Airlines"
+    },
+    {
+        "code": "083",
+        "airline_code": "SA",
+        "airline": "South African Airways"
+    },
+    {
+        "code": "086",
+        "airline_code": "NZ",
+        "airline": "Air New Zealand"
+    },
+    {
+        "code": "090",
+        "airline_code": "IT",
+        "airline": "Kingfisher Airlines"
+    },
+    {
+        "code": "093",
+        "airline_code": "KD",
+        "airline": "KD Avia"
+    },
+    {
+        "code": "096",
+        "airline_code": "IR",
+        "airline": "Iran Air"
+    },
+    {
+        "code": "098",
+        "airline_code": "AI",
+        "airline": "Air India"
+    },
+    {
+        "code": "105",
+        "airline_code": "AY",
+        "airline": "Finnair"
+    },
+    {
+        "code": "106",
+        "airline_code": "BW",
+        "airline": "Caribbean Airlines"
+    },
+    {
+        "code": "108",
+        "airline_code": "FI",
+        "airline": "Icelandair"
+    },
+    {
+        "code": "112",
+        "airline_code": "CK",
+        "airline": "China Cargo Airlines"
+    },
+    {
+        "code": "114",
+        "airline_code": "LY",
+        "airline": "EL AL"
+    },
+    {
+        "code": "115",
+        "airline_code": "JU",
+        "airline": "JAT Airways"
+    },
+    {
+        "code": "117",
+        "airline_code": "SK",
+        "airline": "SAS-Scandinavian Airlines System"
+    },
+    {
+        "code": "118",
+        "airline_code": "DT",
+        "airline": "TAAG Angola Airlines"
+    },
+    {
+        "code": "119",
+        "airline_code": "LM",
+        "airline": "Air ALM"
+    },
+    {
+        "code": "124",
+        "airline_code": "AH",
+        "airline": "Air Algerie"
+    },
+    {
+        "code": "125",
+        "airline_code": "BA",
+        "airline": "British Airways"
+    },
+    {
+        "code": "126",
+        "airline_code": "GA",
+        "airline": "Garuda Indonesia"
+    },
+    {
+        "code": "129",
+        "airline_code": "MP",
+        "airline": "Martinair Cargo"
+    },
+    {
+        "code": "131",
+        "airline_code": "JL",
+        "airline": "Japan Airlines"
+    },
+    {
+        "code": "133",
+        "airline_code": "LR",
+        "airline": "LACSA Airlines of Costa Rica"
+    },
+    {
+        "code": "139",
+        "airline_code": "AM",
+        "airline": "Aeromexico Cargo"
+    },
+    {
+        "code": "140",
+        "airline_code": "LI",
+        "airline": "LIAT Airlines"
+    },
+    {
+        "code": "147",
+        "airline_code": "AT",
+        "airline": "Royal Air Maroc"
+    },
+    {
+        "code": "148",
+        "airline_code": "LN",
+        "airline": "Libyan Airlines"
+    },
+    {
+        "code": "157",
+        "airline_code": "QR",
+        "airline": "Qatar Airways"
+    },
+    {
+        "code": "160",
+        "airline_code": "CX",
+        "airline": "Cathay Pacific Airways"
+    },
+    {
+        "code": "163",
+        "airline_code": "3V",
+        "airline": "TNT Airways"
+    },
+    {
+        "code": "165",
+        "airline_code": "JP",
+        "airline": "Adria Airways"
+    },
+    {
+        "code": "172",
+        "airline_code": "CV",
+        "airline": "Cargolux Airlines"
+    },
+    {
+        "code": "176",
+        "airline_code": "EK",
+        "airline": "Emirates"
+    },
+    {
+        "code": "180",
+        "airline_code": "KE",
+        "airline": "Korean Air"
+    },
+    {
+        "code": "182",
+        "airline_code": "MA",
+        "airline": "Malev Hungarian Airlines"
+    },
+    {
+        "code": "183",
+        "airline_code": "RG",
+        "airline": "VARIG Brazilian Airlines"
+    },
+    {
+        "code": "189",
+        "airline_code": "JI",
+        "airline": "Jade Cargo International"
+    },
+    {
+        "code": "201",
+        "airline_code": "JM",
+        "airline": "Air Jamaica"
+    },
+    {
+        "code": "202",
+        "airline_code": "TA",
+        "airline": "TACA"
+    },
+    {
+        "code": "205",
+        "airline_code": "NH",
+        "airline": "ANA All Nippon Cargo"
+    },
+    {
+        "code": "214",
+        "airline_code": "PK",
+        "airline": "Pakistan Int\u00b4l Airlines"
+    },
+    {
+        "code": "217",
+        "airline_code": "TG",
+        "airline": "Thai Airways"
+    },
+    {
+        "code": "229",
+        "airline_code": "KU",
+        "airline": "Kuwait Airways"
+    },
+    {
+        "code": "230",
+        "airline_code": "CM",
+        "airline": "Copa Airlines Cargo"
+    },
+    {
+        "code": "231",
+        "airline_code": "NG",
+        "airline": "Lauda Air"
+    },
+    {
+        "code": "232",
+        "airline_code": "MH",
+        "airline": "Malaysian Airline System"
+    },
+    {
+        "code": "232",
+        "airline_code": "MH",
+        "airline": ""
+    },
+    {
+        "code": "232",
+        "airline_code": "MH",
+        "airline": "Homepage"
+    },
+    {
+        "code": "234",
+        "airline_code": "JD",
+        "airline": "Japan Air System"
+    },
+    {
+        "code": "235",
+        "airline_code": "TK",
+        "airline": "Turkish Airlines"
+    },
+    {
+        "code": "236",
+        "airline_code": "BD",
+        "airline": "British Midland Airways"
+    },
+    {
+        "code": "239",
+        "airline_code": "MK",
+        "airline": "Air Mauritius"
+    },
+    {
+        "code": "257",
+        "airline_code": "OS",
+        "airline": "Austrian Cargo"
+    },
+    {
+        "code": "258",
+        "airline_code": "MD",
+        "airline": "Air Madagascar"
+    },
+    {
+        "code": "265",
+        "airline_code": "EF",
+        "airline": "Far Eastern Air Transport"
+    },
+    {
+        "code": "266",
+        "airline_code": "LT",
+        "airline": "LTU (Leisure Cargo)"
+    },
+    {
+        "code": "270",
+        "airline_code": "TL",
+        "airline": "Trans Mediterranean Airways"
+    },
+    {
+        "code": "272",
+        "airline_code": "K4",
+        "airline": "Kalitta Air"
+    },
+    {
+        "code": "288",
+        "airline_code": "LD",
+        "airline": "Air Hong Kong"
+    },
+    {
+        "code": "297",
+        "airline_code": "CI",
+        "airline": "China Airlines"
+    },
+    {
+        "code": "301",
+        "airline_code": "5S",
+        "airline": "Global Aviation and Services"
+    },
+    {
+        "code": "302",
+        "airline_code": "OO",
+        "airline": "Sky West Airlines"
+    },
+    {
+        "code": "307",
+        "airline_code": "WE",
+        "airline": "Centurion Air Cargo"
+    },
+    {
+        "code": "324",
+        "airline_code": "SC",
+        "airline": "Shandong Airlines (Chinese)"
+    },
+    {
+        "code": "330",
+        "airline_code": "RF",
+        "airline": "Florida West International Airways"
+    },
+    {
+        "code": "345",
+        "airline_code": "NC",
+        "airline": "Northern Air Cargo"
+    },
+    {
+        "code": "356",
+        "airline_code": "C8",
+        "airline": "Cargolux Italia"
+    },
+    {
+        "code": "369",
+        "airline_code": "5Y",
+        "airline": "Atlas Air"
+    },
+    {
+        "code": "378",
+        "airline_code": "KX",
+        "airline": "Cayman Airways"
+    },
+    {
+        "code": "390",
+        "airline_code": "A3",
+        "airline": "Aegean Airlines"
+    },
+    {
+        "code": "403",
+        "airline_code": "PO",
+        "airline": "Polar Air Cargo"
+    },
+    {
+        "code": "404",
+        "airline_code": "JW",
+        "airline": "Arrow Air"
+    },
+    {
+        "code": "406",
+        "airline_code": "5X",
+        "airline": "UPS Air Cargo"
+    },
+    {
+        "code": "416",
+        "airline_code": "N8",
+        "airline": "National Air Cargo"
+    },
+    {
+        "code": "421",
+        "airline_code": "S7",
+        "airline": "Siberia Airlines"
+    },
+    {
+        "code": "423",
+        "airline_code": "ER",
+        "airline": "DHL Aviation/DHL Airways"
+    },
+    {
+        "code": "465",
+        "airline_code": "KC",
+        "airline": "Air Astana"
+    },
+    {
+        "code": "479",
+        "airline_code": "ZH",
+        "airline": "Shenzhen Airlines (Chinese)"
+    },
+    {
+        "code": "507",
+        "airline_code": "SU",
+        "airline": "Aeroflot"
+    },
+    {
+        "code": "512",
+        "airline_code": "RJ",
+        "airline": "Royal Jordanian"
+    },
+    {
+        "code": "526",
+        "airline_code": "WN",
+        "airline": "Southwest Airlines"
+    },
+    {
+        "code": "529",
+        "airline_code": "A2",
+        "airline": "Cielos Airlines"
+    },
+    {
+        "code": "549",
+        "airline_code": "M3",
+        "airline": "ABSA Aerolinhas Brasileiras"
+    },
+    {
+        "code": "552",
+        "airline_code": "M2",
+        "airline": "Mario\u2019s Air"
+    },
+    {
+        "code": "564",
+        "airline_code": "XQ",
+        "airline": "Sun Express"
+    },
+    {
+        "code": "566",
+        "airline_code": "PS",
+        "airline": "Ukraine Int\u00b4l Airlines"
+    },
+    {
+        "code": "572",
+        "airline_code": "9U",
+        "airline": "Air Moldova"
+    },
+    {
+        "code": "575",
+        "airline_code": "7C",
+        "airline": "Coyne Airways"
+    },
+    {
+        "code": "580",
+        "airline_code": "RU",
+        "airline": "AirBridge Cargo"
+    },
+    {
+        "code": "589",
+        "airline_code": "9W",
+        "airline": "Jet Airways"
+    },
+    {
+        "code": "603",
+        "airline_code": "UL",
+        "airline": "SriLankan Cargo"
+    },
+    {
+        "code": "603",
+        "airline_code": "UL",
+        "airline": "more AWB tracking"
+    },
+    {
+        "code": "604",
+        "airline_code": "UY",
+        "airline": "Cameroon Airlines"
+    },
+    {
+        "code": "607",
+        "airline_code": "EY",
+        "airline": "ETIHAD Airways"
+    },
+    {
+        "code": "615",
+        "airline_code": "QY",
+        "airline": "DHL Aviation / European Air Transport"
+    },
+    {
+        "code": "618",
+        "airline_code": "SQ",
+        "airline": "Singapore Airlines"
+    },
+    {
+        "code": "623",
+        "airline_code": "FB",
+        "airline": "Bulgaria Air"
+    },
+    {
+        "code": "631",
+        "airline_code": "GL",
+        "airline": "Air Greenland"
+    },
+    {
+        "code": "635",
+        "airline_code": "IY",
+        "airline": "Yemenia Yemen Airways"
+    },
+    {
+        "code": "643",
+        "airline_code": "KM",
+        "airline": "Air Malta"
+    },
+    {
+        "code": "656",
+        "airline_code": "PX",
+        "airline": "Air Niugini"
+    },
+    {
+        "code": "657",
+        "airline_code": "BT",
+        "airline": "Air Baltic"
+    },
+    {
+        "code": "672",
+        "airline_code": "BI",
+        "airline": "Royal Brunei Airlines"
+    },
+    {
+        "code": "675",
+        "airline_code": "NX",
+        "airline": "Air Macau"
+    },
+    {
+        "code": "695",
+        "airline_code": "BR",
+        "airline": "Eva Airways"
+    },
+    {
+        "code": "700",
+        "airline_code": "5C",
+        "airline": "CAL Cargo Air Lines"
+    },
+    {
+        "code": "706",
+        "airline_code": "KQ",
+        "airline": "Kenya Airways"
+    },
+    {
+        "code": "716",
+        "airline_code": "MB",
+        "airline": "MNG Airlines"
+    },
+    {
+        "code": "724",
+        "airline_code": "LX",
+        "airline": "Swiss"
+    },
+    {
+        "code": "729",
+        "airline_code": "QT",
+        "airline": "Tampa Airlines"
+    },
+    {
+        "code": "731",
+        "airline_code": "MF",
+        "airline": "Xiamen Airlines"
+    },
+    {
+        "code": "737",
+        "airline_code": "SP",
+        "airline": "SATA Air Acores"
+    },
+    {
+        "code": "738",
+        "airline_code": "VN",
+        "airline": "Vietnam Airlines"
+    },
+    {
+        "code": "757",
+        "airline_code": "SM",
+        "airline": "Avient"
+    },
+    {
+        "code": "771",
+        "airline_code": "J2",
+        "airline": "Azerbaijan Airlines"
+    },
+    {
+        "code": "774",
+        "airline_code": "FM",
+        "airline": "Shanghai Airlines"
+    },
+    {
+        "code": "781",
+        "airline_code": "MU",
+        "airline": "China Eastern Airlines"
+    },
+    {
+        "code": "784",
+        "airline_code": "CZ",
+        "airline": "China Southern Airlines"
+    },
+    {
+        "code": "800",
+        "airline_code": "GD",
+        "airline": "Grandstar Cargo"
+    },
+    {
+        "code": "803",
+        "airline_code": "AE",
+        "airline": "Mandarin Airlines"
+    },
+    {
+        "code": "810",
+        "airline_code": "M6",
+        "airline": "Amerijet International"
+    },
+    {
+        "code": "817",
+        "airline_code": "S6",
+        "airline": "SAC South American Airways"
+    },
+    {
+        "code": "825",
+        "airline_code": "F4",
+        "airline": "Shanghai Airlines Cargo"
+    },
+    {
+        "code": "831",
+        "airline_code": "OU",
+        "airline": "Croatia Airlines"
+    },
+    {
+        "code": "851",
+        "airline_code": "N8",
+        "airline": "Hong Kong Airlines"
+    },
+    {
+        "code": "858",
+        "airline_code": "FK",
+        "airline": "Africa West"
+    },
+    {
+        "code": "862",
+        "airline_code": "EV",
+        "airline": "Atlantic Southeast Airlines"
+    },
+    {
+        "code": "865",
+        "airline_code": "MY",
+        "airline": "MASAir"
+    },
+    {
+        "code": "870",
+        "airline_code": "VV",
+        "airline": "Aerosvit"
+    },
+    {
+        "code": "871",
+        "airline_code": "Y8",
+        "airline": "Yangtze River Express Airlines"
+    },
+    {
+        "code": "873",
+        "airline_code": "6R",
+        "airline": "AeroUnion"
+    },
+    {
+        "code": "876",
+        "airline_code": "3U",
+        "airline": "Sichuan Airlines"
+    },
+    {
+        "code": "880",
+        "airline_code": "HU",
+        "airline": "Hainan Airlines (Chinese)"
+    },
+    {
+        "code": "881",
+        "airline_code": "DE",
+        "airline": "Condor Flugdienst"
+    },
+    {
+        "code": "886",
+        "airline_code": "OH",
+        "airline": "Comair"
+    },
+    {
+        "code": "901",
+        "airline_code": "B1",
+        "airline": "TAB Cargo"
+    },
+    {
+        "code": "907",
+        "airline_code": "QN",
+        "airline": "Air Armenia"
+    },
+    {
+        "code": "928",
+        "airline_code": "UZ",
+        "airline": "Buraq Air Transport (Arabic only)"
+    },
+    {
+        "code": "932",
+        "airline_code": "VS",
+        "airline": "Virgin Atlantic"
+    },
+    {
+        "code": "933",
+        "airline_code": "KZ",
+        "airline": "Nippon Cargo Airlines"
+    },
+    {
+        "code": "957",
+        "airline_code": "JJ",
+        "airline": "TAM Brazilian Airlines"
+    },
+    {
+        "code": "958",
+        "airline_code": "7I",
+        "airline": "Insel Air Cargo"
+    },
+    {
+        "code": "960",
+        "airline_code": "OV",
+        "airline": "Estonian Air"
+    },
+    {
+        "code": "976",
+        "airline_code": "QO",
+        "airline": "Aeromexpress Cargo"
+    },
+    {
+        "code": "988",
+        "airline_code": "OZ",
+        "airline": "Asiana Airlines"
+    },
+    {
+        "code": "989",
+        "airline_code": "IJ",
+        "airline": "Great Wall Airlines"
+    },
+    {
+        "code": "996",
+        "airline_code": "UX",
+        "airline": "Air Europa Cargo"
+    },
+    {
+        "code": "997",
+        "airline_code": "BG",
+        "airline": "Biman Bangladesh"
+    },
+    {
+        "code": "999",
+        "airline_code": "CA",
+        "airline": "Air China"
+    }
+]
